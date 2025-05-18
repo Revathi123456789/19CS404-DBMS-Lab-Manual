@@ -1,5 +1,7 @@
 # Experiment 8: PL/SQL Cursor Programs
-
+### REG NO : 212223040044
+### NAME : REAVTHI K
+### DATE : 18/05/2025
 ## AIM
 To write and execute PL/SQL programs using cursors and exception handling to manage runtime errors effectively and display appropriate messages.
 
