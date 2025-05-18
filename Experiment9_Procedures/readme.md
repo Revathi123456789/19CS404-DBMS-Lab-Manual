@@ -1,5 +1,7 @@
 # Experiment 9: PL/SQL – Procedures and Functions
-
+### NAME : REVATHI K
+### REG NO : 212223040169
+### DATE : 18/05/2025
 ## AIM
 To understand and implement procedures and functions in PL/SQL for performing various operations such as calculations, decision-making, and looping.
 
